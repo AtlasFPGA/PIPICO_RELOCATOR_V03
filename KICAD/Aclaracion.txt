@@ -1,0 +1,1 @@
+En esta carpeta esta localizado el proyecto de kicad actual de pi-pico para la version de coste reducido de ATLAS.

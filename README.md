@@ -23,3 +23,8 @@ Vistas en 3D del montaje, se puede ver que he dejado el orificio para ajustar la
 
 ### Vista 3 Tridimensional:
 ![Vista tridimensional 3](https://github.com/AtlasFPGA/PIPICO_RELOCATOR_V03/blob/main/FOTOS/VISTA3D-TRES-atlas_pipico_v03.png)
+
+Licencia:
+CERN OHL V2 STRICT
+https://ohwr.org/cern_ohl_s_v2.txt
+

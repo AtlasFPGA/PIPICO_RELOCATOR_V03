@@ -15,8 +15,8 @@ Vistas en 3D del montaje, se puede ver que he dejado el orificio para ajustar la
 
 
 ### Vista 1 Tridimensional:
-![Vista tridimensional 1](http://url/to/img.png](https://github.com/AtlasFPGA/PIPICO_RELOCATOR_V03/blob/main/FOTOS/VISTA3D-UNO-atlas_pipico_v03.png)https://github.com/AtlasFPGA/PIPICO_RELOCATOR_V03/blob/main/FOTOS/VISTA3D-UNO-atlas_pipico_v03.png)
+![Vista tridimensional 1](https://github.com/AtlasFPGA/PIPICO_RELOCATOR_V03/blob/main/FOTOS/VISTA3D-UNO-atlas_pipico_v03.png)
 
 
 ### Vista 2 Tridimensional:
-![Vista tridimensional 2](https://github.com/AtlasFPGA/PIPICO_RELOCATOR_V03/blob/main/FOTOS/VISTA3D-DOS-atlas_pipico_v03.png)https://github.com/AtlasFPGA/PIPICO_RELOCATOR_V03/blob/main/FOTOS/VISTA3D-DOS-atlas_pipico_v03.png)
+![Vista tridimensional 2](https://github.com/AtlasFPGA/PIPICO_RELOCATOR_V03/blob/main/FOTOS/VISTA3D-DOS-atlas_pipico_v03.png)

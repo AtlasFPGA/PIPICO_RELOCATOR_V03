@@ -1,4 +1,7 @@
-# PIPICO_RELOCATOR_V03
+# PIPICO_RELOCATOR_V0
+
+Group ATLAS in Telegram: https://t.me/INICIATIVAATLAS
+
 Agregadas salidas para poder usar módulos I2S Texas Instruments PCM5102A
 
 Visionado del ajuste de pares diferenciales:
